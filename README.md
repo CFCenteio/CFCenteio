@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caio!</h1>
 <h3 align="center">A fresh, and ready Dev, from le Wagon!</h3>
+<h4 aligh="center">I'm a International Afairs bachelor, with a past in Economical Sciences that found himself in coding!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cfcenteio&label=Profile%20views&color=0e75b6&style=flat" alt="cfcenteio" /> </p>
 
